@@ -10,6 +10,7 @@ A curated list of resources including blogs, tutorial and videos for learning Rx
 - [RxSwift Community Page](https://community.rxswift.org)
 
 ## Tutorials
+- [Introducing RxSwift: Reactive Programming with Swift!](https://www.raywenderlich.com/688-introducing-rxswift-reactive-programming-with-swift)
 - [Getting started with RxSwift and RxCocoa](https://www.raywenderlich.com/900-getting-started-with-rxswift-and-rxcocoa) - Raywenderlich.com
 - [RxSwift transforming operators](https://www.raywenderlich.com/682-rxswift-transforming-operators) - Raywenderlich.com
 - [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
@@ -23,6 +24,7 @@ A curated list of resources including blogs, tutorial and videos for learning Rx
 
 ## Blogs
 - [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
+- [The-introduction-to-RxSwift-you-have-been-missing](https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing)
 - [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
 - [RxSwift foundation and basic components: part 1](https://medium.com/@navdeepsingh_2336/rxswift-foundation-and-basic-components-36f7db186e3e)
 - [RxSwift For Dummies 🐣 Part 1](http://swiftpearls.com/RxSwift-for-dummies-1-Observables.html)
@@ -32,6 +34,7 @@ A curated list of resources including blogs, tutorial and videos for learning Rx
 - [Custom Property bindings with RxSwift](http://rx-marin.com/post/rxswift-custom-bindings/)
 - [RxSwift at first sight](https://blog.alltheflow.com/rxswift-at-first-sight/)
 - [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
+- [Memory management in RxSwift – DisposeBag](http://adamborek.com/memory-managment-rxswift/)
 
 
 ## Videos
